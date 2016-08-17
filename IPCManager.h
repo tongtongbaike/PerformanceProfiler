@@ -1,16 +1,3 @@
-/******************************************************************************************
-IPCManager.h
-Copyright (c) Bit Software, Inc.(2015), All rights reserved.
-
-Purpose: 实现命名管道的进程间通信
-
-Author: xjh
-
-Reviser: dongwei
-
-Created Time: 2015-4-26
-******************************************************************************************/
-
 #pragma once
 
 #ifdef _WIN32
