@@ -1,16 +1,3 @@
-/******************************************************************************************
-PerformanceProfilerTool.cpp:
-Copyright (c) Bit Software, Inc.(2015), All rights reserved.
-
-Purpose: 实现性能剖析在线控制工具
-
-Author: xjh
-
-Reviser: yyy
-
-Created Time: 2015-4-26
-******************************************************************************************/
-
 #include <iostream>
 #include <string>
 #include <stdio.h>
